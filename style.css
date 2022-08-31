@@ -1,0 +1,63 @@
+h1{
+    border: 1px;
+    border-radius: 200px;
+    margin-left: 550px;
+    margin-right: 550px;
+    background: linear-gradient(270deg, rgb(7, 7, 7),skyblue);
+    color: aliceblue;
+    padding: 30px 0px 30px 0px;
+    
+}
+body{
+    text-align: center;
+    background-color: wheat;
+    background-image: url(math.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+.operator  {
+    margin-top: 20px;
+    margin-right: 10px;
+    border: 2px solid skyblue;
+    border-radius: 10px;
+    color:white ;
+    background-color: black;
+}
+.operator:hover{
+background-color: skyblue;
+color: black;
+}
+.resultclass{
+    border: 1px;
+    border-radius: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 550px;
+    margin-right: 550px;
+    background: linear-gradient(90deg, skyblue,black);
+    color: white;
+}
+.btn{
+    border: 2px skyblue;
+    background-color: black;
+    color: white;
+}
+.btn:hover{
+    border: 2px black;
+    background-color: skyblue;
+    color: black;
+}
+.textfields{
+    border:solid 2px skyblue;
+    background-color: black;
+    color: white;
+}
+.sign{
+    color: white;
+    border: 2px solid skyblue;
+    border-radius: 50px;
+    background-color: black;
+    margin-left: 750px;
+    margin-right: 750px;
+}
+
